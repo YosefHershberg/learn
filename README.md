@@ -4,11 +4,7 @@ this is my project
 
 new commit
 
-on main 1
+on main 2
 
 feature 1
-stashed
-stashed
-stashed
-stashed
 stashed
