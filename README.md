@@ -6,4 +6,4 @@ new commit
 
 on dev origin
 
-dev dev
+fixed bug
