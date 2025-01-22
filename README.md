@@ -7,3 +7,5 @@ new commit
 on dev origin
 
 fixed bug
+
+dev feature
