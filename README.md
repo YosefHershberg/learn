@@ -7,3 +7,5 @@ new commit
 on dev origin
 
 dev feature 1
+
+dev feature 2
